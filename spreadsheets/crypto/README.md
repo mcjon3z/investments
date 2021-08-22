@@ -6,7 +6,7 @@ Spreadsheets for cryptocurrency tracking
 ## Crypto Tracking vXXX
 Little spreadsheet I wrote to track cryptocurrency transactions and related capital gains, income, etc.
 
-Spreadsheet includes realtime quotes using the CoinMarketCap API. In order to use this functionality, you will need to create an account there and apply for a free API key. Paste the key in the shaded cell on the "config" tab. You will get error messages upon opening the spreadsheet and using the refresh buttons until you have input the API key.
+Spreadsheet includes realtime quotes using the CoinMarketCap API. In order to use this functionality, you will need to create an account [here](https://coinmarketcap.com/api/) and apply for a free API key. Paste the key in the shaded cell on the "config" tab. You will get error messages upon opening the spreadsheet and using the refresh buttons until you have input the API key.
 
 Disclaimers:
 
