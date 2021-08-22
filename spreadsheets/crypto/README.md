@@ -17,3 +17,6 @@ Disclaimers:
 - This spreadsheet is a work in progress and errors may exist - if you discover any, please report back to me and I'll be happy to investigate.
 
 - Designed in the latest build of Excel 365. I cannot vouch that it will work on any previous versions.
+
+## Disclaimer
+All tools and spreadsheets are provided "as is," with no warranty of any kind, expressed or implied, and in no event will I or any parties associated with this repo be liable for direct, indirect, incidental, or consequential damages resulting from the use of any of these tools. I specifically disclaim the roles of tax or investment adviser. The user must assume responsibility as to the correctness and appropriateness of any and all amounts entered and results produced.
